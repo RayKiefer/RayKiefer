@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Electrocaloric refrigeration
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-Sofware/Platforms
+- Sofware/Platforms
 - 🌱 Current software: Python, C++, HTML, BAT, Bash, MSVisualStudioCode, vim
 - 🌱 Current OS: MSWindow10, Linux (Gentoo, Mint)
 - 🌱 Old software: Basic, Pascal, Cobal, Ada, C, Assembly (8080,8085,8086,Z80,6800,DSP32C)
